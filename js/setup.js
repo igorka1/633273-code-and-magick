@@ -32,7 +32,7 @@ var wizardCoats = [
 var wizardEyes = ["black", "red", "blue", "yellow", "green"];
 
 var getRandomNumberInRange = function(from, to) {
-  return Math.random() * (to - from) + from;
+  return Math.round(Math.random() * (to - from) + from);
 };
 
 var getRandomElement = function(arr) {
