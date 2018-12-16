@@ -1,7 +1,7 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
 * Студент: [Игорь Казанцев](https://up.htmlacademy.ru/javascript/16/user/633273).
-* Наставник: `Неизвестно`.
+* Наставник: `Иван Шмидт`.
 
 ---
 
