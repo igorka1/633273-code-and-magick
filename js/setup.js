@@ -29,6 +29,7 @@ var wizardCoats = [
   "rgb(215, 210, 55)",
   "rgb(0, 0, 0)"
 ];
+
 var wizardEyes = ["black", "red", "blue", "yellow", "green"];
 
 var getRandomNumberInRange = function(from, to) {
