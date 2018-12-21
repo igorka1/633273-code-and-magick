@@ -3,8 +3,6 @@
 * Студент: [Игорь Казанцев](https://up.htmlacademy.ru/javascript/16/user/633273).
 * Наставник: Иван Шмидт.
 
----
-
 _Не удаляйте и не обращайте внимание на файлы:_<br>
 _`.editorconfig`, `.eslintrc`, `.gitattributes`, `.gitignore`, `.travis.yml`, `package-lock.json`, `package.json`._
 
